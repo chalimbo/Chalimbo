@@ -1,4 +1,5 @@
-SELAM YA! 
+<h1 align="center"><b>SELAM YAHU! 👋</b></h1>
+
 <p align="center">
   <img src="IMG_0223.jpeg" width="250">
 </p>
