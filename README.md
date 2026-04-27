@@ -1,10 +1,10 @@
-## Hi there 👋
+SELAM YA! 
 <p align="center">
   <img src="IMG_0223.jpeg" width="250">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MELON&fontSize=90&fontColor=ffffff&desc=@chalimbo&descAlignY=65&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=MELON&fontSize=90&fontColor=ffffff&desc=@chalimbo&descAlignY=65&descAlign=50">
 </p>
 
 <h2 align="center">🚀 Kendini Geliştiren Bir Kreatif & Yazılımcı</h2>
