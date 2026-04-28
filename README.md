@@ -28,7 +28,7 @@
 
   ### <font color="#E0B0FF">📩 How to Reach Me 📱✨</font>
   
-  <img src="IMG_0230.jpeg" width="30" align="center"> **Telegram:** [@chalimbo](https://t.me/chalimbo) 🦄💫
+  <img src="IMG_0230.jpeg" width="50" align="center"> **Telegram:** [@chalimbo](https://t.me/chalimbo) 🦄💫
   
   ---
   *<font color="#BF00FF">On this journey I've just started, I strive to improve myself with every project 🍬🔮.</font>*
