@@ -1,4 +1,4 @@
-<h1 align="center"><b>SELAM YAHU! 👋</b></h1>
+<h1 align="center"><b>HELLO THERE! 🎀🌸</b></h1>
 
 <p align="center">
   <img src="IMG_0223.jpeg" width="250">
@@ -8,33 +8,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=MELON&fontSize=90&fontColor=ffffff&desc=@chalimbo&descAlignY=65&descAlign=50">
 </p>
 
-<h2 align="center">🚀 Kendini Geliştiren Bir Kreatif & Yazılımcı</h2>
+<h2 align="center">🚀 Aspiring Creative & Developer 💖✨</h2>
 
 <p align="center">
-  Merhaba! Ben <strong>Melon</strong>. Teknolojinin ve sanatın farklı dallarında kendimi eğiterek dijital dünyayı keşfediyorum.
+  Hi! I'm <strong>Melon</strong> 🌸. I am an enthusiast exploring the digital world by teaching myself various fields of technology and art 🧠🌷.
 </p>
 
 <div align="center">
 
-  ### 🛠 Nelerle Uğraşıyorum?
+  ### 🛠 What I’m Working On 🎀
   
-  **🤖 Telegram Bot Altyapıları** | **🌐 Web Sitesi Kurulumu**
+  **🤖 Telegram Bot Infrastructures** | **🌐 Web Development** 🌸
   <br>
-  **🎵 Müzik Üretimi** | **🎨 Karakter Tasarımı**
+  **🎵 Music Production** 🎸 | **🎨 Character Design** 🎨💕
   
   ---
 
-  ### 📩 Bana Nasıl Ulaşabilirsin?
+  ### 📩 How to Reach Me 💞
   
-  **Telegram:** [@chalimbo](https://t.me/chalimbo)
+  **Telegram:** [@chalimbo](https://t.me/chalimbo) 🦄💫
   
   ---
-  *Yeni başladığım bu yolculukta her projeyle kendimi bir adım ileriye taşıyorum.*
+  *On this journey I've just started, I strive to improve myself with every project 🍬🌸.*
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chalimbo&color=blueviolet&style=flat-square" alt="chalimbo">
+  <img src="https://komarev.com/ghpvc/?username=chalimbo&color=ff69b4&style=flat-square" alt="chalimbo">
 </p>
