@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#A020F0"><b>SELAM YAHU! 💜🎆</b></font></h1>
+<h1 align="center"><font color="#A020F0"><b>Hey There Cutie! 💜🎆</b></font></h1>
 
 <p align="center">
   <img src="IMG_0223.jpeg" width="250">
