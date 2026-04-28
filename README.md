@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=180&section=header&text=MELLON&fontSize=90&fontColor=ffffff&desc=@chalimbo&descAlignY=65&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=180&section=header&text=MELON&fontSize=90&fontColor=ffffff&desc=@chalimbo&descAlignY=65&descAlign=50">
 </p>
 
 <h2 align="center"><font color="#E0B0FF">🚀 Aspiring Creative & Developer 🔮✨</font></h2>
